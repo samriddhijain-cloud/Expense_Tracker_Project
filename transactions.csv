@@ -1,0 +1,4 @@
+id,date,type,category,amount,description
+1,13-11-2026,Expense,food,300.0,dinner
+2,21-11-2026,Expense,food,250.0,lunch
+3,12-11-2026,Income,salary,1000.0,monthly allowance

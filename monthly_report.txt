@@ -1,0 +1,33 @@
+===== MONTHLY EXPENSE REPORT =====
+Month: 11-2026
+
+Total Income: Rs. 1000.00
+Total Expenses: Rs. 550.00
+Remaining Balance: Rs. 450.00
+Total Transactions: 3
+
+===== CATEGORY-WISE EXPENSES =====
+food: Rs. 550.00
+
+===== TRANSACTION DETAILS =====
+
+ID: 1
+Date: 13-11-2026
+Type: Expense
+Category: food
+Amount: Rs. 300.00
+Description: dinner
+
+ID: 2
+Date: 21-11-2026
+Type: Expense
+Category: food
+Amount: Rs. 250.00
+Description: lunch
+
+ID: 3
+Date: 12-11-2026
+Type: Income
+Category: salary
+Amount: Rs. 1000.00
+Description: monthly allowance
